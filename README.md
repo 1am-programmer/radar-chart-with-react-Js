@@ -23,7 +23,7 @@ Radar charts, also known as spider or star charts, are useful for displaying mul
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/react-radar-chart.git
+    git clone https://github.com/1am-programmer/react-radar-chart.git
     ```
 
 2. Navigate to the project directory:
@@ -43,7 +43,7 @@ Radar charts, also known as spider or star charts, are useful for displaying mul
 To run the project locally, use the following command:
 
 ```bash
-npm start
+npm run dev
 This will start the development server and open the application in your default web browser. You should see a radar chart displayed with sample data.
 
 Customization
